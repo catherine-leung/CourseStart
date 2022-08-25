@@ -54,7 +54,6 @@ Text book info here
 
 ## Time line
 
-All readings are from the subject notes: https://seneca-ictoer.github.io/data-structures-and-algorithms/
 
 | Week | Topics and Reading | Assessment - Out |  Assessment Due and Weight |
 |---|---|---|---|
